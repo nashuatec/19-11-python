@@ -1,0 +1,13 @@
+METODOS DE IMPRESSAO DA LISTA
+
+
+lista = [1,2,3,4,5]
+print(f'lista1[0:5]:{lista[0:5]}')
+print(f'lista[0:-1]:{lista[0:-1]}')
+print(f'lista [0:-3]:{lista[0:-3]}')
+print(f'lista[0:-4]:{lista [0:-4]}')
+print(f'lista[3:]:{lista[3:]}')
+print(f'lista[:3]:{lista[:3]}')
+print(f'lista[:-1]:{lista[:-1]}')
+print(f'lista[:-2]:{lista[:-2]}')
+print(f'lista[::-1]:{lista[::-1]}')
